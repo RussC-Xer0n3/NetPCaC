@@ -465,8 +465,6 @@ public class NetworkCalc { // Global and encapsulated./
  * as String.
  */
 ```
-
-<!doctype html>
 <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 <meta charset="UTF-8">
